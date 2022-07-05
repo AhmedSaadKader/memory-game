@@ -1,0 +1,15 @@
+
+.card {
+    box-shadow: 0.25rem 1rem rgb(0 0 0 / .1);
+}
+
+img {
+    max-width: 80%;
+    aspect-ratio: 1 / 1;
+    width: 100%;
+}
+
+
+.cardTitle {
+
+}
